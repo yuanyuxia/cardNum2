@@ -1,0 +1,94 @@
+html,body{background-color:#fff}
+.get{position:relative;box-sizing:border-box}.get .bg{font-size:0}
+.get .bg img{width:100%;border:0;display:block}
+.container{position:absolute;top:3rem;left:50%;width:6rem;margin-left:-3rem;text-align:center}
+.container h3{font-size:.36rem;color:#333;margin-bottom:.3rem}
+.getTen{display:block;color:#ff6062;font-size:.36rem;margin-bottom:.3rem}
+.cont{width:94%;margin:0 auto;padding:.3rem .4rem;color:#fff;background-color:#429afa}
+.contTop h4{float:left;font-size:.34rem;font-weight:normal}
+.contTop{height:.3rem;line-height:.3rem}
+.contTop .time{text-align:bottom;position:relative;padding-top:.2rem}
+.contTop .time .num{display:inline-block;font-size:.6rem;color:#fff;margin-right:.1rem}
+.contTop .time .h{display:inline-block;font-size:.24rem;position:absolute;top:.3rem;left:.36rem;color:#fff;margin-left:.05rem}
+.container .cont .car{font-size:.24rem;color:rgba(255,255,255,.6);margin-top:.4rem}
+.contBottom{width:100%;position:relative}
+.contBottom ul{position:absolute;top:-0.04rem;left:0}
+.contBottom ul li{width:.1rem;height:.1rem;margin-right:.1rem;border-radius:50%;background-color:#eee;float:right}
+.container p{width:94%;margin:0 auto;font-size:.22rem;color:#adadad;text-align:left;background-color:#eee;padding-left:.2rem;height:.42rem;line-height:.42rem}
+.getCoupon{padding-top:.4rem;margin:0 auto}.getCoupon a{display:inline-block;width:5.4rem;background-color:#ffcd35;border-radius:1rem;text-align:center;line-height:.88rem;font-size:.34rem;color:#805239}
+.tel .num{margin-left:.55rem;border-radius:1rem;width:6.4rem;height:.88rem;background-color:#fff;position:absolute;bottom:-3.5rem;left:-0.75rem;text-align:center;font-size:.32rem}
+.container h5{font-size:.28rem;color:#fff;margin-top:2.2rem}html,body{width:100%;box-sizing:border-box}
+.parking{width:100%;height:12.3rem;background-color:#429afa;padding-top:.8rem;padding-bottom:1.1rem;font-family:"MT"}
+.example{font-size:.4rem;color:#fff;padding-left:.5rem;margin:-0.3rem 0 .3rem 0}
+.parkingInfo{background-color:#fff;width:6.5rem;margin:0 auto;border:1px solid #fff;border-radius:.1rem;padding:.4rem .4rem .7rem .4rem}
+.parkingInfo h3{color:#333;font-weight:normal;font-size:.5rem;font-family:"微软雅黑"}
+.parkingInfo p{color:#999;font-size:.28rem;line-height:.5rem}
+.parkingInfo .parkingAdd p{font-size:.3rem}
+.parkingInfo h6{color:#999;font-weight:normal;font-size:.24rem}
+.parkingAdd{margin-bottom:.5rem;background-color:#f6f9f8;margin:-0.42rem -0.42rem .32rem -0.42rem;padding:.32rem .42rem .32rem .42rem;border:1px solid #f6f9f8;border-radius:.1rem}
+.parkingTime p,.money p{margin-bottom:-0.4rem;font-size:.28rem;color:#999}
+.parkingTime span,.money span{font-size:.7rem;color:#429afa;font-family:'MT'}
+@font-face{font-family:'MT';src:url('../font/DINOT-MEDIUM.OTF');src:url('../font/DINOT-MEDIUM.OTF') format('embedded-opentype'),url('../font/DINOT-MEDIUM.OTF') format('woff'),url('../font/DINOT-MEDIUM.OTF') format('truetype'),url('../font/DINOT-MEDIUM.OTF') format('svg')}
+.money{padding-bottom:.2rem;border-bottom:1px dashed #999}
+.picture_l{width:.5rem;height:.5rem;display:inline-block}
+.picture_l img{width:100%}
+.weixin .zhifu,.zhifubao .zhifu{vertical-align:middle;font-size:.3rem;color:#333}
+.picture_r{display:block;width:.5rem;float:right;margin-right:.1rem;margin-top:.46rem}
+.picture_r img{display:block;width:100%}.btn{margin-top:.6rem;width:5.5rem;height:.9rem;background-color:#429afa;color:#fff;border:1px solid #429afa;border-radius:.1rem;text-align:center;font-size:.32rem;line-height:.9rem}
+.num{padding-bottom:-4rem;left:0;right:0;top:0;bottom:0}
+.checked{padding:.5rem .5rem .2rem;margin:0 auto;background-color:#429afa}
+.checked p{text-align:center;color:#fff;line-height:.5rem;font-size:.48rem}
+.num .car{padding-left:.3rem;color:#666;font-size:.3rem;margin-top:.6rem}
+.cardNum{padding:.3rem .3rem 6rem .3rem}
+.cardNum2 a input{border:0;font-size:.34rem;margin:.2rem;outline:0;width:.38rem;text-align:center}
+.cardNum2 a{background-color:#fff;border:1px solid #429afa;border-radius:.05rem;font-size:.34rem;color:#333;float:left;margin-right:.06rem}
+.cardNum2 .plus{color:#666;display:block;text-align:center}
+.cardNum2 .power .sc{display:inline-block;padding-bottom:.1rem;width:.8rem;height:.43rem}
+@media only screen and (min-width:361px){
+.cardNum2 .power .new{display:block;font-size:.2rem;margin:0 .01rem;width:.74rem;color:#666;text-align: center}
+.cardNum2 .plus img{width:40%}}
+@media only screen and (min-width:320px) and (max-width:360px){
+.cardNum2 .power{padding-bottom:.06rem}
+.cardNum2 a{background-color:#fff;border:1px solid #429afa;border-radius:.05rem;font-size:.34rem;color:#333;float:left;padding:.1rem 0;margin-right:.04rem}
+.cardNum2 .plus img{width:30%}
+.cardNum2 .power .new{display:block;font-size:.12rem;margin:0 .01rem;color:#666}}
+.on{display:block}
+.refresh{width:50%;margin:0 auto;padding-bottom:.3rem}
+.refresh a{width:.33rem}
+.refresh a img{width:100%}
+.refresh span{color:#429afa;font-size:.32rem;vertical-align:middle}
+.next{width:90%;height:1rem;line-height:1rem;background-color:#429afa;color:#fff;font-size:.34rem;text-align:center;margin:0 auto;border:1px solid #429afa;border-radius:5px}
+input{text-align:center}.word{display:none;background-color:#ededed;width:100%;padding:.2rem 0;text-align:center;margin-top:.4rem;z-index:99999999}
+.cardNum2{padding:.3rem .1rem 1rem .1rem}
+.english{background-color:#ededed;width:100%;padding:.2rem 0;text-align:center;margin-top:.4rem;z-index:99999999}
+.word .word1,.english .One{line-height:.4rem;margin:.15rem 0}
+.english .One a{width:.7rem;height:.8rem;line-height:.8rem;background-color:#fff;border:1px solid #fff;border-radius:.2rem;color:#333;margin:0 -0.13rem;font-size:.32rem;text-align:center}
+.word .word1 a{line-height:.8rem;background-color:#fff;border:1px solid #fff;border-radius:.2rem;color:#333;width:.8rem;height:.8rem;margin:0 -0.13rem;font-size:.28rem;text-align:center}
+.word .deleteBtn img,.english .deleteBtn img{width:66%;display:inline-block;margin-bottom:.1rem}
+#container{width:100%;height:100%}
+#carLicenseBox{padding-bottom:20px;overflow:hidden;background-color:#fff}
+@font-face{font-family:'MT';src:url('../font/DINOT-MEDIUM.OTF');src:url('../font/DINOT-MEDIUM.OTF') format('embedded-opentype'),url('../font/DINOT-MEDIUM.OTF') format('woff'),url('../font/DINOT-MEDIUM.OTF') format('truetype'),url('../font/DINOT-MEDIUM.OTF') format('svg')}
+#carLicenseBox .car{color:#666;font-size:16px;margin-top:.6rem;padding:20px 0 10px 20px}
+#carLicenseBox .carLicenseTitle{width:100%;background-color:#478ff1;text-align:center;line-height:100px;color:white;font-size:34px}
+#carLicenseBox .carLicenseMain{width:100%;padding:20px 2px 40px 2px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.refresh{width:50%;margin:0 auto;padding-bottom:30px;text-align:center}.refresh a{display:inline-block;width:18px;vertical-align:middle}
+.refresh a img{width:100%}.refresh span{display:inline-block;color:#429afa;font-size:16px;vertical-align:middle;margin-top:3px}
+#carLicenseBox .carLicenseMain ul{width:100%;height:36px;display:flex;flex-direction:row;align-items:center;justify-content:center}
+#carLicenseBox .carLicenseMain ul li{width:40px;height:43px;border:1px solid #429afa;border-radius:5px;text-align:center;line-height:43px;float:left;margin-right:4px;font-family:"MT";padding-top:2.5px}
+#carLicenseBox .carLicenseMain ul li:last-of-type{margin:0}#carLicenseBox .carLicenseMain ul li.active{border:1px solid #47f172}
+#carLicenseBox .carLicenseMain ul li.xinnengyuan{background:url(../imgs/xinnengyuan.png) no-repeat center;background-size:100% 100%;border:1px solid #429afa}
+#carLicenseBox .submitBtn{width:80%;height:45px;background-color:#478ff1;border:0;border-radius:6px;text-align:center;line-height:45px;color:white;font-size:20px;margin-left:10%}#keyboardBox{width:100%;position:absolute;bottom:0;left:0;z-index:999}
+#keyboardBox .provienceBox,#keyboardBox .textBox{width:100%;background-color:#d0d5d9;padding-top:15px;padding-bottom:15px}
+#keyboardBox .provienceBox ul,#keyboardBox .textBox ul{width:100%;display:flex;flex-direction:row;justify-content:space-around;align-items:center;margin-top:10px}
+#keyboardBox .provienceBox ul:first-of-type,#keyboardBox .textBox ul:first-of-type{margin-top:0}
+#keyboardBox .provienceBox ul li,#keyboardBox .textBox ul li{width:35px;height:40px;border-radius:6px;text-align:center;line-height:40px;float:left;background-color:#fff;font-family:"MT";padding-top:2.5px}#keyboardBox .textBox{display:none}
+#keyboardBox .provienceBox ul .changeContentBtn,#keyboardBox .provienceBox ul .deleteBtn,#keyboardBox .textBox ul .changeContentBtn,#keyboardBox .textBox ul .deleteBtn{width:40px;height:40px;background-color:#acb3bb;text-align:center;line-height:40px}
+#keyboardBox .provienceBox ul .deleteBtn img,#keyboardBox .textBox ul .deleteBtn img{width:23px}
+@media only screen and (min-width:320px) and (max-width:360px){
+    #keyboardBox .provienceBox ul li,#keyboardBox .textBox ul li{width:30px;height:40px;border-radius:6px;text-align:center;line-height:40px;float:left;background-color:#fff;font-family:"MT"}
+    #carLicenseBox .carLicenseTitle{width:100%;background-color:#478ff1;text-align:center;line-height:80px;color:white;font-size:30px}
+    #carLicenseBox .carLicenseMain{width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center}
+    .refresh{width:60%;margin:0 auto;padding-bottom:20px;text-align:center}
+    .refresh a{display:inline-block;width:20px;vertical-align:middle}
+    .refresh a img{width:100%}.refresh span{color:#429afa;font-size:16px;vertical-align:middle}
+}
